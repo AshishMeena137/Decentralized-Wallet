@@ -1,0 +1,71 @@
+.container {
+   background: transparent;
+   border: 2px solid rgba(255, 255, 255, .2);
+   backdrop-filter: blur(20px);
+   box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+   color: #fff;
+   border-radius: 10px;
+   padding: 30px 40px;
+   margin-bottom: 20px;
+}
+
+.logo p i {
+    position: relative;
+    font-size: 50px;
+    right: -390px;
+    top: -100px;
+}
+
+.logo p i:hover {
+    color: plum;
+    font-size: 55px;
+}
+.deteils {
+    position: relative;
+    top: -51px;
+    font-size: 25px;
+    /* text-align: center; */
+}
+
+.deteils .address {
+    color: purple;
+}
+
+.deteils .balance {
+    color: blue;
+}
+
+.deteils .address:hover {
+    color: #000;
+}
+
+.one {
+    /* font-size: 15px; */
+    position: relative;
+    top: 50px;
+    left: -300px;
+}
+
+.two {
+    position: relative;
+    top: -50px;
+}
+
+.three {
+    position: relative;
+    right: -300px;
+    top: -160px;
+}
+
+.logout {
+    position: relative;
+    top: -40px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.logout:hover {
+    font-size: 21px;
+    color: blanchedalmond;
+    text-decoration: underline;
+}
