@@ -128,3 +128,5 @@ Ensure that the server dependencies are installed correctly.
 Debug the server code to identify and resolve issues.
 ## 4. Contact Support:
 If you've followed the troubleshooting steps and still encounter problems, please reach out to our support team at ashishmeenaofficial731@gmail.com for personalised assistance. Provide detailed information about the issue, including error messages and steps to reproduce the problem.
+
+#### Read full code explanation documentation https://docs.google.com/document/d/1kIrqcpV9T_TSjAzFpZnsiZOBcf8N3pEplgmUifm3Rg0/edit?usp=sharing
